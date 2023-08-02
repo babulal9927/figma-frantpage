@@ -1,0 +1,113 @@
+.macbook-pro-14-1-child {
+    position: absolute;
+    top: 42px;
+    left: 1086px;
+    background-color: #4b4242;
+    width: 162px;
+    height: 46px;
+  }
+  .macbook-pro-14-1-item {
+    position: absolute;
+    top: 0;
+    left: 93px;
+    border-radius: var(--br-24xl);
+    background-color: #d9d9d9;
+    width: 1206px;
+    height: 791px;
+  }
+  .color {
+    position: absolute;
+    top: 222px;
+    left: 114px;
+    font-size: 384px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1206px;
+    height: 346px;
+    mix-blend-mode: normal;
+  }
+  .instragramfacebooktwitter {
+    position: absolute;
+    top: 724px;
+    left: calc(50% + 379px);
+  }
+  .need-help,
+  .scroll-to-explore {
+    position: absolute;
+    top: 734px;
+    left: 535px;
+  }
+  .need-help {
+    top: 729px;
+    left: 126px;
+  }
+  .macbook-pro-14-1-inner {
+    position: absolute;
+    top: 0;
+    left: 63px;
+    border-radius: var(--br-24xl);
+    width: 1206px;
+    height: 874px;
+  }
+  .about,
+  .about1,
+  .about2,
+  .about3,
+  .agency-name {
+    position: absolute;
+    top: 56px;
+    left: 802px;
+    font-weight: 600;
+    text-align: left;
+  }
+  .about1,
+  .about2,
+  .about3,
+  .agency-name {
+    top: 51px;
+    left: 474px;
+  }
+  .about2,
+  .about3,
+  .agency-name {
+    left: 570px;
+  }
+  .about3,
+  .agency-name {
+    left: 696px;
+    display: inline-block;
+    width: 54px;
+    height: 18px;
+  }
+  .agency-name {
+    top: 42px;
+    left: 114px;
+    font-size: 24px;
+    width: 257px;
+    height: 35px;
+  }
+  .connect-with-us {
+    position: absolute;
+    top: 42px;
+    left: 1086px;
+    color: #1a1818;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 162px;
+    height: 46px;
+  }
+  .macbook-pro-14-1 {
+    position: relative;
+    background-color: #e64141;
+    width: 100%;
+    height: 920px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-mini);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

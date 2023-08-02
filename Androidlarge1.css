@@ -1,0 +1,102 @@
+.color-of-deception {
+    position: absolute;
+    top: 408px;
+    left: 95px;
+    font-size: 20px;
+    color: var(--color-black);
+  }
+  .android-large-1-child {
+    position: absolute;
+    top: calc(50% - 296px);
+    left: calc(50% - 157px);
+    border-radius: 20px;
+    width: 313px;
+    height: 340px;
+  }
+  .android-large-1-item {
+    position: absolute;
+    top: 145px;
+    left: 60px;
+    border-radius: var(--br-8xs);
+    background-color: #3bda4b;
+    width: 94px;
+    height: 94px;
+  }
+  .green {
+    position: absolute;
+    top: 184px;
+    left: 87px;
+  }
+  .android-large-1-inner {
+    position: absolute;
+    top: 145px;
+    left: 192px;
+    border-radius: var(--br-8xs);
+    background-color: #2e40e1;
+    width: 94px;
+    height: 94px;
+  }
+  .rectangle-div,
+  .red {
+    position: absolute;
+    top: 184px;
+    left: 227px;
+  }
+  .rectangle-div {
+    top: 287px;
+    left: 60px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gold);
+    width: 94px;
+    height: 94px;
+  }
+  .black {
+    position: absolute;
+    top: calc(50% - 74px);
+    left: 87px;
+    color: var(--color-black);
+  }
+  .android-large-1-child1 {
+    position: absolute;
+    top: 287px;
+    left: 192px;
+    border-radius: var(--br-8xs);
+    background-color: #ec2e2e;
+    width: 94px;
+    height: 94px;
+  }
+  .blue {
+    position: absolute;
+    top: 326px;
+    left: 224px;
+  }
+  .android-large-1-child2 {
+    position: absolute;
+    top: 458px;
+    left: 102px;
+    border-radius: 36px;
+    background-color: var(--color-gold);
+    width: 156px;
+    height: 50px;
+  }
+  .start {
+    position: absolute;
+    top: 469px;
+    left: 136px;
+    font-size: 25px;
+    display: inline-block;
+    width: 88px;
+    height: 28px;
+  }
+  .android-large-1 {
+    position: relative;
+    background-color: #171b19;
+    width: 100%;
+    height: 800px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
